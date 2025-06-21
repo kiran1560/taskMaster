@@ -2,7 +2,7 @@
 
 <p>A full-stack Kanban board application for organizing tasks, tracking progress, and managing workflows.</p>
 
-<hr>
+
 
 <h2> Requirements</h2>
 
@@ -15,7 +15,7 @@ node server</code></pre>
 npm install
 npm start</code></pre>
 
-<hr>
+
 
 <h2> Environment Variables</h2>
 
@@ -25,18 +25,18 @@ npm start</code></pre>
 SESSION_SECRET=your_session_secret
 NODE_ENV=development</code></pre>
 
-<hr>
+
 
 <h2> Live Demo</h2>
 
 <p>🔗 <a href="https://taskmaster-kanban.up.railway.app/" target="_blank">https://taskmaster-kanban.up.railway.app/</a></p>
 
-<hr>
+
 
 <h2> Project Demonstration</h2>
 
 <p>Below is the demonstration of the core functionality of TaskMaster:</p>
 
 <p>
-  <img src="public/taskmaster_demo.gif" alt="Kanban Board Demo" width="700">
+  <img src="../taskMaster/client/public/taskmaster_demo.gif" alt="Kanban Board Demo" width="700">
 </p>
