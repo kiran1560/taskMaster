@@ -33,10 +33,3 @@ NODE_ENV=development</code></pre>
 
 
 
-<h2> Project Demonstration</h2>
-
-<p>Below is the demonstration of the core functionality of TaskMaster:</p>
-
-<p>
-  <img src="../taskMaster/client/public/taskmaster_demo.gif" alt="Kanban Board Demo" width="700">
-</p>
