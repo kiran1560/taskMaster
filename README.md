@@ -29,7 +29,7 @@ NODE_ENV=development</code></pre>
 
 <h2> Live Demo</h2>
 
-<p>🔗 <a href="https://taskmaster-wsf0.onrender.com/ target="_blank">Task Master</a></p>
+<p>🔗 <a href="https://taskmaster-wsf0.onrender.com/">Task Master</a></p>
 
 
 
